@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RAAVi · Your Personal Examiner for PST</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand" role="banner">
+      <button type="button" class="brand-link" id="nav-home" aria-label="RAAVi home">
+        <span class="brand-word">RAAVi<span class="brand-dot" aria-hidden="true">●</span></span>
+      </button>
+      <div class="brand-sub">
+        <strong>Your Personal Examiner</strong>
+        <small>Pakistan Studies by Khizar Hayat</small>
+      </div>
+    </div>
+    <nav class="topbar-actions" aria-label="Account and navigation">
+      <span id="user-pill" class="user-pill" hidden></span>
+      <button type="button" class="btn-ghost" id="nav-subjects">Subjects</button>
+      <button type="button" class="btn-ghost" id="nav-reports" hidden>Reports</button>
+      <button type="button" class="btn-ghost" id="nav-auth">Sign in</button>
+      <button type="button" class="btn-ghost" id="nav-logout" hidden>Sign out</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <div id="banner" class="banner" role="alert" hidden>
+      <span id="banner-text"></span>
+      <div class="banner-actions">
+        <button type="button" class="btn-small" id="banner-retry" hidden>Retry</button>
+        <button type="button" class="btn-small btn-ghost-dark" id="banner-dismiss" aria-label="Dismiss message">Dismiss</button>
+      </div>
+    </div>
+
+    <div id="loading-bar" class="loading-bar" role="status" aria-live="polite" hidden>
+      <span class="spinner" aria-hidden="true"></span>
+      <span id="loading-text">Loading…</span>
+    </div>
+
+    <!-- SCREEN 1: AUTH -->
+    <section id="screen-auth" class="card" hidden>
+      <small class="eyebrow">STUDENT ACCOUNT</small>
+      <h1 id="auth-heading">Sign in to RAAVi</h1>
+      <p id="auth-destination-note" class="dest-note" hidden></p>
+
+      <div class="tabs" role="tablist" id="auth-tabs">
+        <button type="button" role="tab" id="tab-login" class="tab active" aria-selected="true">Sign in</button>
+        <button type="button" role="tab" id="tab-register" class="tab" aria-selected="false">Create account</button>
+      </div>
+
+      <form id="form-login" class="stack-form">
+        <label for="login-email">Email address</label>
+        <input id="login-email" type="email" autocomplete="email" required placeholder="student@example.com">
+        <label for="login-password">Password</label>
+        <input id="login-password" type="password" autocomplete="current-password" required minlength="8">
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Sign in</button>
+          <button type="button" class="btn-link" id="btn-show-forgot">Forgot password?</button>
+        </div>
+      </form>
+
+      <form id="form-register" class="stack-form" hidden>
+        <label for="reg-email">Email address</label>
+        <input id="reg-email" type="email" autocomplete="email" required placeholder="student@example.com">
+        <label for="reg-password">Password (at least 8 characters)</label>
+        <input id="reg-password" type="password" autocomplete="new-password" required minlength="8">
+        <p class="help-text">We will send a 6-digit verification code to confirm your email before your first test.</p>
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Create account &amp; send code</button>
+        </div>
+      </form>
+
+      <form id="form-verify" class="stack-form" hidden>
+        <h2>Verify your email</h2>
+        <p class="help-text">Enter the 6-digit verification code sent to <strong id="verify-email-display"></strong>.</p>
+        <div id="dev-mail-hint" class="dev-hint" hidden></div>
+        <label for="verify-code">6-digit verification code</label>
+        <input id="verify-code" type="text" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" autocomplete="one-time-code" required placeholder="123456">
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Verify email &amp; continue</button>
+          <button type="button" class="btn-secondary" id="btn-resend-code">Resend code</button>
+          <button type="button" class="btn-link" id="btn-verify-back">Use another email</button>
+        </div>
+      </form>
+
+      <form id="form-forgot" class="stack-form" hidden>
+        <h2>Reset your password</h2>
+        <p class="help-text">Enter your account email address to receive a 6-digit reset code.</p>
+        <label for="forgot-email">Email address</label>
+        <input id="forgot-email" type="email" autocomplete="email" required>
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Send reset code</button>
+          <button type="button" class="btn-link" id="btn-forgot-back">Back to sign in</button>
+        </div>
+      </form>
+
+      <form id="form-reset" class="stack-form" hidden>
+        <h2>Enter reset code</h2>
+        <p class="help-text">Check your inbox for the reset code sent to <strong id="reset-email-display"></strong>.</p>
+        <div id="dev-reset-hint" class="dev-hint" hidden></div>
+        <label for="reset-code">6-digit reset code</label>
+        <input id="reset-code" type="text" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" required>
+        <label for="reset-password">New password (at least 8 characters)</label>
+        <input id="reset-password" type="password" autocomplete="new-password" required minlength="8">
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Reset password</button>
+          <button type="button" class="btn-link" id="btn-reset-back">Back to sign in</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- SCREEN 2: SUBJECTS -->
+    <section id="screen-subjects" class="card" hidden>
+      <small class="eyebrow">PAKISTAN STUDIES (2059)</small>
+      <h1>Choose your subject</h1>
+      <p class="lead">Select History or Geography to browse chapters, start a 10-question practice test, or review saved reports. Each subject allows one new test every 24 hours.</p>
+      <div id="unverified-callout" class="callout callout-warn" hidden>
+        <span>Your email address is not verified yet. Verify your email before starting a test.</span>
+        <button type="button" class="btn-small" id="btn-go-verify">Verify email now</button>
+      </div>
+      <div id="subject-cards" class="subject-grid"></div>
+      <div class="section-footer">
+        <button type="button" class="btn-secondary" id="btn-view-all-reports" hidden>View saved reports &amp; progress</button>
+      </div>
+    </section>
+
+    <!-- SCREEN 3: CHAPTERS -->
+    <section id="screen-chapters" class="card" hidden>
+      <button type="button" class="btn-back" id="btn-chapters-back">← Back to subjects</button>
+      <small class="eyebrow" id="chapters-eyebrow">SUBJECT</small>
+      <h1 id="chapters-title">Chapters</h1>
+      <div id="chapters-status-banner" class="callout" hidden></div>
+      <p class="help-text">Browsing chapters never uses your daily allowance. Select one chapter for a 10-question test.</p>
+      <div id="chapter-grid" class="chapter-grid"></div>
+    </section>
+
+    <!-- SCREEN 4: CONFIRM START -->
+    <section id="screen-confirm" class="card" hidden>
+      <button type="button" class="btn-back" id="btn-confirm-back">← Choose another chapter</button>
+      <small class="eyebrow" id="confirm-subject"></small>
+      <h1 id="confirm-chapter"></h1>
+      <div class="confirm-box">
+        <ul class="confirm-facts">
+          <li><strong>Format:</strong> 10 questions from this chapter</li>
+          <li><strong>Marking:</strong> 1 mark per correct answer; 0 for incorrect or skipped</li>
+          <li><strong>Allowance rule:</strong> Starting uses your <span id="confirm-subj-inline"></span> allowance for the next 24 hours</li>
+        </ul>
+      </div>
+      <div id="confirm-blocker" class="callout callout-warn" hidden></div>
+      <div id="confirm-actions" class="form-actions">
+        <button type="button" class="btn-primary btn-lg" id="btn-start-test">Start test</button>
+        <button type="button" class="btn-secondary" id="btn-confirm-other">Choose another chapter</button>
+      </div>
+    </section>
+
+    <!-- SCREEN 5: ACTIVE TEST (ONE QUESTION AT A TIME) -->
+    <section id="screen-test" class="card" hidden>
+      <div class="test-header">
+        <div>
+          <small class="eyebrow" id="test-subject-chapter"></small>
+          <div class="question-counter" id="test-progress-label">Question 1 of 10</div>
+        </div>
+        <button type="button" class="btn-ghost" id="btn-pause-exit">Save &amp; exit</button>
+      </div>
+      <div class="progress-track" aria-hidden="true">
+        <div class="progress-fill" id="test-progress-bar"></div>
+      </div>
+
+      <article id="question-stage" class="question-stage">
+        <div class="question-meta" id="question-meta"></div>
+        <h2 id="question-stem" class="question-stem"></h2>
+
+        <figure id="question-figure" class="map-figure" hidden>
+          <img id="question-map-img" src="" alt="">
+          <figcaption id="question-map-caption"></figcaption>
+          <button type="button" class="btn-small btn-secondary" id="btn-zoom-map">Enlarge map</button>
+        </figure>
+
+        <div id="question-choices" class="choice-list" role="radiogroup" aria-labelledby="question-stem"></div>
+
+        <div id="short-answer-wrap" hidden>
+          <label for="short-answer-input">Your answer</label>
+          <input id="short-answer-input" type="text" autocomplete="off" placeholder="Type your answer">
+        </div>
+
+        <div id="test-controls" class="test-controls">
+          <button type="button" class="btn-primary btn-lg" id="btn-submit-answer" disabled>Submit answer</button>
+          <button type="button" class="btn-secondary btn-lg" id="btn-skip-answer">Skip</button>
+        </div>
+
+        <div id="feedback-card" class="feedback-card" hidden>
+          <div id="feedback-badge" class="feedback-badge"></div>
+          <p id="feedback-your-answer"></p>
+          <p id="feedback-correct-answer"></p>
+          <p id="feedback-explanation"></p>
+          <p id="feedback-refs" class="source-ref"></p>
+          <div class="form-actions">
+            <button type="button" class="btn-primary btn-lg" id="btn-next-question">Next question →</button>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <!-- SCREEN 6: REPORT -->
+    <section id="screen-report" class="card" hidden>
+      <small class="eyebrow" id="report-eyebrow">ASSESSMENT REPORT</small>
+      <h1 id="report-title"></h1>
+      <div id="report-summary-strip" class="report-summary"></div>
+      <div id="report-trend-box" class="trend-box"></div>
+      <div id="report-outcomes" class="outcome-list"></div>
+      <div class="form-actions section-footer">
+        <button type="button" class="btn-primary" id="btn-report-chapters">Back to chapters</button>
+        <button type="button" class="btn-secondary" id="btn-report-subjects">Back to subjects</button>
+        <button type="button" class="btn-secondary" id="btn-report-all">Report history</button>
+      </div>
+    </section>
+
+    <!-- SCREEN 7: REPORT HISTORY -->
+    <section id="screen-reports" class="card" hidden>
+      <button type="button" class="btn-back" id="btn-reports-back">← Back to subjects</button>
+      <small class="eyebrow">SAVED PROGRESS</small>
+      <h1>Report history</h1>
+      <p class="help-text">History and Geography attempts are tracked separately. Incomplete attempts are marked clearly and excluded from completed-score trends.</p>
+      <div id="reports-list"></div>
+    </section>
+  </main>
+
+  <div id="map-modal" class="modal" hidden role="dialog" aria-modal="true" aria-label="Enlarged map">
+    <div class="modal-inner">
+      <button type="button" class="btn-secondary modal-close" id="btn-close-map">Close map</button>
+      <img id="modal-map-img" src="" alt="">
+      <p id="modal-map-caption"></p>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

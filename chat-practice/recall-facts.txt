@@ -1,0 +1,505 @@
+# Each entry has a source page, an answer category, a prompt and its key.
+@H|Company expansion
+H1:7|person|Which emperor succeeded Shah Jahan and ruled until 1707?|Aurangzeb
+H1:10|person|Which Persian ruler sacked Delhi in 1739?|Nadir Shah
+H1:12|person|Who commanded the Company forces at Plassey?|Robert Clive
+H1:11|person|Which governor-general introduced the Permanent Settlement of Bengal?|Lord Cornwallis
+H1:11|person|Which governor-general is associated with the Subsidiary Alliance system?|Lord Wellesley
+H1:18|person|Which British commander led the annexation of Sindh in 1843?|Charles Napier
+H1:15|year|In what year did the Treaty of Seringapatam end the Third Anglo-Mysore War?|1792
+H1:16|year|In which year did Parliament pass the Regulating Act?|1773
+S1:9|year|When was the English East India Company founded?|1600
+H1:15|person|Which ruler of Mysore accepted the 1792 settlement with the Company?|Tipu Sultan
+@H|Religious reform
+H1:27|city|In which city was Shah Waliullah born?|Delhi
+H1:27|year|In which year was Shah Waliullah born?|1703
+H1:27|year|In which year did Shah Waliullah die?|1762
+H1:27|language|Into which language did Shah Waliullah translate the Quran?|Persian
+H1:27|place|At which battle did Syed Ahmad Barelvi die?|Balakot
+H1:27|year|In what year was the Battle of Balakot fought?|1831
+H1:27|person|Which reformer studied under Shah Abdul Aziz before joining Amir Khan’s army?|Syed Ahmad Barelvi
+H1:28|place|In which Bengal district was Haji Shariatullah born?|Faridpur
+H1:28|person|Which Faraizi leader was also known as Mohsinuddin?|Dudu Mian
+H1:28|year|In which year did Haji Shariatullah die?|1840
+@H|1857 uprising
+H1:50|city|From which cantonment did the May 1857 rebels march towards Delhi?|Meerut
+H1:51|person|Which Mughal emperor became the symbolic sovereign of the uprising?|Bahadur Shah Zafar
+H1:50|place|Which centre of revolt is especially associated with Nana Sahib?|Kanpur
+H1:50|place|Which centre of revolt is associated with Rani Lakshmibai?|Jhansi
+H1:39|year|In which year was the General Service Enlistment Act passed?|1856
+H1:51|year|When did Bahadur Shah Zafar’s reign begin?|1837
+H1:38|language|Which language gained official educational preference under Macaulay’s proposals?|English
+H1:46|year|In which year did direct Crown rule replace Company rule?|1858
+H1:39|person|Which governor-general’s succession policy alienated rulers without a recognised natural heir?|Lord Dalhousie
+H1:43|place|The Nizam of which princely state supported the British in 1857?|Hyderabad
+@H|Aligarh
+H1:55|year|In which year was Sir Syed Ahmad Khan born?|1817
+H1:55|city|Which city was Sir Syed Ahmad Khan’s birthplace?|Delhi
+H1:55|year|In what year did Sir Syed Ahmad Khan die?|1898
+S1:31|year|When did Sir Syed establish the Muhammadan Educational Conference?|1886
+S1:34|year|In which year did Sir Syed visit England to study its institutions?|1869
+S1:34|year|In what year was the Aligarh Institute Gazette launched?|1866
+S1:31|year|Which year is associated with the Hindi–Urdu controversy discussed in Sir Syed’s career?|1867
+H1:55|city|In which city did Sir Syed establish the institution that developed into the Muhammadan Anglo-Oriental College?|Aligarh
+H1:55|work|Which work by Sir Syed examined why the 1857 uprising occurred?|The Causes of the Indian Revolt
+S1:31|institution|Which organisation held educational meetings in different Indian cities under Sir Syed’s leadership?|Muhammadan Educational Conference
+@H|Languages
+S1:38|language|Which regional literary tradition includes Shah Abdul Latif Bhittai and Sachal Sarmast?|Sindhi
+S1:38|language|In which language did Waris Shah write Heer?|Punjabi
+S1:38|language|Which language links the poetry of Rahman Baba and Khushal Khan Khattak?|Pashto
+S1:39|language|Which language links the works of Atta Shad and Gul Khan Naseer?|Balochi
+S1:37|city|Which PTV centre in Balochistan expanded broadcasting in Balochi?|Quetta
+S1:37|city|From which city was the Urdu monthly Mah-i-Nau issued in the notes?|Lahore
+S1:37|city|Which city houses the Academy of Letters associated with Adabiyat?|Islamabad
+S1:36|institution|Which university is identified with research on Punjabi literature in the notes?|University of the Punjab
+S1:38|person|Which of these poets is identified with Sindhi literature?|Sheikh Ayaz|Waris Shah|Rahman Baba|Gul Khan Naseer
+S1:39|person|Which poet belongs with Atta Shad in a collection of Balochi poetry?|Gul Khan Naseer|Bulleh Shah|Sachal Sarmast|Rahman Baba
+@H|Representation
+H2:12|person|Who led the 1906 Simla Deputation?|Aga Khan III
+H2:12|person|Which viceroy received the Simla Deputation?|Lord Minto
+H2:9|city|Where was the All-India Muslim League founded?|Dhaka
+H2:8|year|When was the first partition of Bengal announced and implemented?|1905
+H2:8|year|When was the first partition of Bengal annulled?|1911
+H2:18|year|Which year is associated with the Morley–Minto reforms?|1909
+H2:19|city|In which city did Congress and the League reach their 1916 pact?|Lucknow
+H2:22|city|In which city did the Jallianwala Bagh massacre occur?|Amritsar
+H2:21|person|Which viceroy’s name is linked with Montagu in the 1919 reforms?|Lord Chelmsford
+H2:21|term|What was the provincial system of reserved and transferred subjects called?|Dyarchy|Parity|Federation|Direct rule
+@H|Khilafat
+H2:30|person|Which pair were the Ali brothers of the Khilafat campaign?|Muhammad Ali and Shaukat Ali|Muhammad Ali and Liaquat Ali|Shaukat Ali and Rahmat Ali|Rahmat Ali and Liaquat Ali
+H2:38|person|Who was the last Ottoman sultan?|Mehmed VI
+S2:25|year|In which year was the Ottoman caliphate abolished?|1924
+S2:26|country|Which country was the intended destination of the Hijrat migrants from India?|Afghanistan
+H2:37|country|Which defeated power signed the Treaty of Versailles with the Allies?|Germany
+H2:37;S2:24|treaty|Which postwar treaty imposed terms on the Ottoman government in 1920?|Treaty of Sèvres|Treaty of Versailles|Treaty of Allahabad|Treaty of Amritsar
+S2:25|person|Which Turkish nationalist leader is associated with the abolition of the caliphate?|Mustafa Kemal Atatürk
+S2:23|place|In which region of southern India did the Moplah uprising take place?|Malabar
+H2:29|year|In which year did the world war that transformed the Ottoman Empire’s position begin?|1914
+S2:25|year|In which year did the Khilafat-era Hijrat to Afghanistan take place?|1920
+@H|Constitutional proposals
+H2:45|person|Who chaired the commission appointed in 1927 to review India’s constitution?|Sir John Simon
+H2:45|count|How many members were on the Simon Commission?|7
+H2:47|person|Who chaired the committee that produced the 1928 Nehru Report?|Motilal Nehru
+H2:46|person|Who chaired the 1927 Delhi conference discussed in the notes?|Muhammad Ali Jinnah
+H2:44|year|When did Jinnah set out his Fourteen Points?|1929
+H2:44|count|How many Round Table Conferences on India were held between 1930 and 1932?|3
+H2:50|person|Who represented Congress at the second Round Table Conference?|Mahatma Gandhi
+H2:53|person|Which viceroy signed the 1931 pact with Gandhi?|Lord Irwin
+H2:44|year|When did Congress ministries resign after India was declared at war?|1939
+H2:46|place|Which province did the Delhi Proposals seek to separate from Bombay?|Sindh
+@H|Transfer of power
+H2:69|person|Who moved the Lahore Resolution at the Muslim League session in March 1940?|A. K. Fazlul Huq
+H2:69|person|Who presided over the Muslim League’s Lahore session in March 1940?|Muhammad Ali Jinnah
+H2:69|place|At which Lahore venue did the League hold its March 1940 session?|Minto Park
+H2:65|year|When did the British government make the August Offer?|1940
+H2:71|person|Who led the British mission that offered India postwar constitutional change in March 1942?|Sir Stafford Cripps
+H2:65|year|In which year did the Gandhi–Jinnah talks take place?|1944
+S2:41|year|In which year did Lord Wavell convene the Simla Conference on his executive council proposals?|1945
+H2:78|person|Who chaired the boundary commissions for Punjab and Bengal at partition?|Sir Cyril Radcliffe
+H2:76|year|In which year did Direct Action Day take place?|1946
+S2:41|count|How many groups of provinces were envisaged in the Cabinet Mission Plan?|3
+@H|Political ideas
+H2:87|person|Who presided over the Muslim League session at Allahabad in 1930?|Allama Muhammad Iqbal
+H2:87|city|Where was Allama Iqbal born?|Sialkot
+H2:87|year|In which year was Allama Iqbal born?|1877
+H2:88|person|Who wrote the pamphlet Now or Never?|Chaudhry Rahmat Ali
+H2:88|year|When was Now or Never published?|1933
+H2:88|place|In which Punjab district was Chaudhry Rahmat Ali born?|Hoshiarpur
+H2:88|city|In which English university city did Rahmat Ali study law?|Cambridge
+H2:88|year|In which year did Chaudhry Rahmat Ali die?|1951
+H2:87;H2:88|count|How many years separated Iqbal’s Allahabad Address and the publication of Now or Never?|3
+S2:50|place|Which frontier province was included alongside Punjab, Sindh and Balochistan in Iqbal’s north-western proposal?|North-West Frontier Province
+@H|Independence settlement
+H3:15|person|Who was Pakistan’s first governor-general?|Muhammad Ali Jinnah
+H3:20;H3:22|person|Who served as Pakistan’s first prime minister?|Liaquat Ali Khan
+S3:9|year|In which year did Jinnah inaugurate the State Bank of Pakistan?|1948
+H3:10;H2:78|place|Which two provinces were divided by the Radcliffe boundary commissions?|Punjab and Bengal|Sindh and Bengal|Punjab and Sindh|Balochistan and Punjab
+H3:13|country|Which country lay between Pakistan’s two wings after independence?|India
+H3:15;H3:16|city|Which city served as Pakistan’s first federal capital?|Karachi
+G1:48|year|Which year saw the signing of the treaty that settled the allocation of Indus-system rivers?|1960
+G1:48;H3:87|river|Which river belonged with the Indus and Chenab in the treaty’s western group?|Jhelum
+H3:13|place|Which wing of Pakistan included the city of Dhaka at independence?|East Pakistan|West Pakistan|West Punjab|Sindh
+H3:14|term|Dividing army stores after partition belongs most directly to which settlement problem?|Division of military assets|Selection of a national language|Drafting provincial constitutions|Resettlement of refugees
+@H|Early ministries
+H3:20|person|Who succeeded Jinnah as governor-general?|Khawaja Nazimuddin
+H3:23|year|When did the Constituent Assembly adopt the Objectives Resolution?|1949
+H3:26|year|In which year did Pakistan adopt its first constitution?|1956
+H3:27|year|In what year did the first period of nationwide martial law begin?|1958
+H3:29|year|Which year saw the promulgation of Ayub Khan’s presidential constitution?|1962
+H3:30|person|Who challenged Ayub Khan in the 1965 presidential election?|Fatima Jinnah
+H3:31|city|Which planned city was chosen as Pakistan’s new federal capital under Ayub?|Islamabad
+H3:24|year|When was Prime Minister Liaquat Ali Khan assassinated?|1951
+S3:12|city|Which city gave its name to the declaration following the 1965 war?|Tashkent
+H3:20;H3:27|person|Which president proclaimed martial law in October 1958 before being displaced by Ayub?|Iskander Mirza
+@H|East Pakistan
+H3:39|person|Who was the principal advocate of the Six Points programme?|Sheikh Mujibur Rahman
+H3:39|count|How many points comprised the Awami League’s autonomy programme of 1966?|6
+H3:40|party|Which party won the national parliamentary majority in 1970?|Awami League|Pakistan Peoples Party|Muslim League (Convention)|National Awami Party
+H3:40|person|Who led the Pakistan Peoples Party in the 1970 election?|Zulfikar Ali Bhutto
+H3:42|event|Which cyclone struck the eastern wing in November 1970?|Bhola|Nargis|Gonu|Aila
+H3:42|person|Who headed Pakistan’s government at the time of the March 1971 crackdown?|Yahya Khan
+S3:22|year|When was the Agartala Conspiracy Case announced?|1968
+H3:42|name|Which name was used for the Bengali liberation force in 1971?|Mukti Bahini|Khudai Khidmatgar|Faraizi Movement|Basic Democrats
+H3:42|year|In which year did East Pakistan become Bangladesh?|1971
+H3:42|month|In which month of 1971 did the final India–Pakistan war over the eastern wing begin?|December
+@H|Bhutto and Zia
+H3:45|city|Where was Zulfikar Ali Bhutto born?|Larkana
+H3:46|year|When did Pakistan adopt the constitution associated with Bhutto’s parliamentary settlement?|1973
+H3:50|person|Which Indian prime minister signed the Simla Agreement with Bhutto?|Indira Gandhi
+H3:49|person|Who became Chief of Army Staff in 1972 under Bhutto?|Tikka Khan
+H3:48|year|In which year was the institution now called Allama Iqbal Open University established?|1974
+H3:56|city|Which city hosted the 1974 Islamic Summit in Pakistan?|Lahore
+H3:54|name|What was the name of the operation that brought Zia to power?|Operation Fair Play|Operation Searchlight|Operation Gibraltar|Operation Grand Slam
+H3:51|city|In which city was Zia-ul-Haq born?|Jalandhar
+H3:54|year|When did Zia remove Bhutto’s government?|1977
+H3:57|person|Which Indian prime minister met Zia during his 1987 cricket diplomacy visit?|Rajiv Gandhi
+@H|Governments 1988–99
+H3:62|city|In which city was Benazir Bhutto born?|Karachi
+H3:62|year|When did Benazir Bhutto first become prime minister?|1988
+H3:68|year|In which year did Benazir’s second premiership begin?|1993
+H3:65|city|In which city was Nawaz Sharif born?|Lahore
+H3:70|year|When did Nawaz Sharif begin his second premiership?|1997
+H3:74|person|Which president dismissed Benazir Bhutto’s first government?|Ghulam Ishaq Khan
+H3:71|count|Which numbered amendment curtailed the president’s power to dissolve the National Assembly in 1997?|13
+H3:71|count|Which numbered amendment tackled party defection in 1997?|14
+S3:42|month|In which month of 1998 did Pakistan conduct nuclear tests after India’s tests?|May
+H3:72|person|Which army chief took power in October 1999?|Pervez Musharraf
+@H|Foreign relations
+H3:87|year|When did Pakistan and China sign their boundary agreement?|1963
+H3:77|person|Which Pakistani prime minister visited the United States in 1950?|Liaquat Ali Khan
+H3:87|country|Which neighbour voted against Pakistan’s admission to the UN in 1947?|Afghanistan
+H3:57|year|Which year saw the Soviet military intervention in Afghanistan?|1979
+H3:56|city|Which Saudi city is identified as the headquarters of the OIC?|Jeddah
+H3:56|year|In which year was the Organisation of Islamic Conference founded?|1969
+H3:33|country|Which country joined Pakistan and Iran in Regional Cooperation for Development?|Turkey
+H3:87|year|In which year did Pakistan recognise the People’s Republic of China?|1950
+S3:12|year|When was the Tashkent Declaration signed?|1966
+H3:50|year|When was the Simla Agreement signed?|1972
+@G|Location
+G1:7|country|Which country borders Pakistan to the south-west?|Iran
+M:2|country|Which country meets Pakistan along its north-eastern frontier?|China
+G1:7|sea|Which sea lies south of Pakistan?|Arabian Sea|Red Sea|Caspian Sea|Bay of Bengal
+M:2|province|In which province is the Kharan Desert?|Balochistan
+M:2|province|In which province is the Thal Desert?|Punjab
+M:2|province|In which province is the Cholistan Desert?|Punjab
+M:3|city|What is the provincial capital of Khyber Pakhtunkhwa?|Peshawar
+M:3|city|What is the provincial capital of Balochistan?|Quetta
+M:3|city|Which twin city lies immediately south-west of Islamabad?|Rawalpindi
+M:3|province|In which province is Jacobabad?|Sindh
+G1:16|landform|What term describes a gently sloping plain formed by deposition at a mountain front?|Piedmont plain|Deltaic plain|Intermontane basin|Tidal flat
+G1:14|landform|What is the geographical term for land between two rivers in Punjab?|Doab|Delta|Levee|Gorge
+@G|Climate
+G1:27|sea|Which sea region is linked to the origin of Pakistan’s winter western depressions?|Mediterranean Sea|Bay of Bengal|South China Sea|Red Sea
+G1:27|season|When do western depressions make their characteristic contribution to Pakistan’s rainfall?|Winter
+G1:26|season|In Pakistan, the principal rainy monsoon occurs in which season?|Summer
+G1:28|side|Which side of a mountain is first exposed to incoming moisture-laden winds?|Windward|Leeward|Seaward in every case|Poleward in every case
+G1:21;G1:23|unit|What unit would normally label the precipitation axis of a climate graph in these notes?|Millimetres|Degrees Celsius|Metres per second|Hectopascals
+G1:30|hazard|Which storm hazard consists of layered ice falling onto crops?|Hail|Frost|Fog|Dew
+G1:30|hazard|Which coastal hazard is a rise in sea level driven by a tropical cyclone?|Storm surge|River meander|Rain shadow|Temperature inversion
+G1:22;G1:23|measure|Which temperature measure is obtained by subtracting the coldest monthly mean from the warmest?|Annual temperature range|Annual mean temperature|Daily maximum temperature|Mean diurnal range
+G1:28|process|Which process changes rising water vapour into cloud droplets?|Condensation|Evaporation|Transpiration|Infiltration
+G1:29|hazard|Which hazard is associated with a prolonged shortage of available water?|Drought|Hailstorm|Flash flood|Cyclone
+@G|Water
+M:5|count|How many dams are labelled in the Dams panel on page 5 of Map Marvels?|4
+M:5|count|How many barrages carry lettered pins in the Barrages panel on page 5 of Map Marvels?|6
+G1:38;M:5|river|On which river is Tarbela Dam built?|Indus
+G1:38;M:5|river|On which river is Mangla Dam built?|Jhelum
+G1:38;M:5|river|On which river is Warsak Dam built?|Kabul
+M:5|barrage|Which is the southernmost of the six Indus barrages labelled in Map Marvels?|Kotri|Guddu|Sukkur|Taunsa
+G1:39|method|Which irrigation system carries underground water through a gently sloping tunnel?|Karez|Char sa|Sprinkler|Persian wheel
+G1:44|canal|Which type of canal traditionally draws river water only when river levels rise sufficiently?|Inundation canal|Perennial canal|Link canal by definition|Lined canal by definition
+G1:41|equipment|Which device raises groundwater from a deep bore using an electric or diesel pump?|Tube well|Barrage|Inundation canal|Reservoir spillway
+G1:45|process|What term describes sediment accumulating inside a reservoir and reducing storage capacity?|Siltation|Salinisation|Condensation|Afforestation
+G1:46|river|On which river is the proposed Kalabagh Dam site?|Indus
+G1:48|count|How many rivers are in the western group under the Indus Waters Treaty?|3
+@G|Forests
+G1:57|forest|Which forest type occupies saline, tidal creeks of the Indus delta?|Mangrove|Alpine|Coniferous|Riverine freshwater
+G1:57|forest|Which forest depends particularly on seasonal freshwater flooding of the Indus banks?|Riverine|Montane coniferous|Mangrove|Alpine
+G1:56|feature|What leaf shape helps many conifers reduce water loss?|Needle-shaped|Broad floating pads|Large wax-free blades|Thin fan-shaped fronds
+G1:57|place|Which plateau is associated in the notes with subtropical scrub?|Potwar Plateau|Tibetan Plateau|Deccan Plateau|Pamir Plateau
+G1:59|place|Which named forest in Punjab is an irrigated plantation?|Changa Manga|Indus delta mangroves|Ziarat juniper forest|Alpine belt of Gilgit
+G1:58|use|What household forest product can alternative cooking fuels directly replace?|Fuelwood|Paper pulp in mills|Furniture timber|Railway sleepers
+G1:53|term|Which term includes the variety of living organisms in a forest ecosystem?|Biodiversity|Tree density|Canopy height|Timber yield
+G1:56|feature|Which conifer crown shape helps shed accumulated mountain snow?|Sloping branches forming a cone|A flat crown over horizontal plates|A broad bowl-shaped crown|Climbing stems without a crown
+X:3|institution|Which institution in the notes is associated specifically with forestry research and training?|Pakistan Forest Institute
+G1:60|term|Which approach explicitly involves local communities in planting and managing trees?|Social forestry|Clear-felling|Open-cast working|Canal lining
+@G|Minerals
+M:6|resource|Which pair of metals is associated with Saindak?|Copper and gold|Iron and aluminium|Chromium and zinc|Lead and silver
+G1:66|method|What is the term for a horizontal mine entrance driven into a hillside?|Adit|Shaft|Borehole|Quarry bench
+G1:66|method|Which method uses a vertical passage to reach a deep underground seam?|Shaft mining|Open-cast mining|Adit mining|Surface panning
+G1:69|institution|What does PMDC stand for in the mineral-development notes?|Pakistan Mineral Development Corporation
+G2:37|resource|Which sedimentary carbonate rock is a major raw material for cement?|Limestone|Granite|Basalt|Slate
+M:6;G2:21|province|In which province is the Thar coalfield?|Sindh
+M:6;G2:21|province|In which province is the Mach coalfield?|Balochistan
+G1:67|resource|Which metallic mineral is an ore of chromium?|Chromite|Gypsum|Limestone|Rock salt
+G1:66|resource|Which mineral is the main natural source of sodium chloride?|Rock salt|Gypsum|Sulphur|Chromite
+G1:68|term|What do mining firms call the soil and rock covering a deposit that must be removed before surface extraction?|Overburden|Slag|Tailings|Concentrate
+@G|Fishing
+G1:70|sea|Which sea supports Pakistan’s marine fishing industry?|Arabian Sea|Caspian Sea|Red Sea|Mediterranean Sea
+G1:72|province|In which province is the fishing port of Pasni?|Balochistan
+G1:72|province|In which province is Port Qasim?|Sindh
+G1:72|place|Which fishing port is farthest west among Jiwani, Pasni, Ormara and Karachi?|Jiwani|Pasni|Ormara|Karachi
+G1:74|gear|Which fishing gear entangles open-water fish by their gills?|Pelagic gill net|Bottom trawl|Hook and line|Beach seine
+G1:74|gear|Which net is hauled in from the shore by people on a beach?|Beach seine|Pelagic gill net|Bottom trawl|Trolling line
+G1:76|stage|Which fish-farming stage follows fry before stocking larger growing ponds in the notes?|Fingerling|Egg|Larva|Spawning adult
+G1:76|facility|Where are eggs hatched under controlled conditions for a fish farm?|Hatchery|Landing quay|Ice plant|Trawling ground
+G1:75|process|What does gutting a fish involve during processing?|Removing internal organs|Separating fish by species|Packing fish in ice|Removing only external scales
+G1:71|term|What is fishing mainly to feed one’s own household called?|Subsistence fishing|Commercial trawling|Export processing|Recreational angling
+@G|Agriculture
+G2:8|crop|Maxi Pak and Shahkar 95 are named varieties of which crop?|Wheat|Cotton|Rice|Sugarcane
+G2:8|place|Which plateau is used as the example of barani wheat farming?|Potwar Plateau|Deccan Plateau|Tibetan Plateau|Pamir Plateau
+G2:8|monthpair|Which sowing period is given for wheat in the notes?|October–November|February–March|May–June|July–August
+G2:9|monthpair|Which harvest period is given for rice in the notes?|October–November|February–March|April–May|June–July
+G2:8|term|What does barani agriculture principally rely on for water?|Rainfall|Tidal inundation|Pumped seawater|Glacial ice placed on fields
+G2:10;G2:35|crop|Which crop supplies lint for the textile industry?|Cotton|Sugarcane|Wheat|Maize
+X:4|institution|Which institution is identified as a source of agricultural loans?|Zarai Taraqiati Bank Limited
+X:4|institution|Which council is associated with research on seeds, crops and farming methods?|Pakistan Agricultural Research Council
+G2:18|input|What useful crop input is supplied directly by livestock dung?|Manure|Certified seed|Irrigation water|Pesticide concentrate
+G2:8|province|In which province are the wheat-growing districts of Nasirabad and Jafarabad?|Balochistan
+@G|Power
+G2:21|place|Which historic gas field in Dera Bugti is marked on the resource map in the power chapter?|Sui|Dhulian|Meyal|Thar
+G2:22|fuel|Which has the highest coal rank among the stages in the notes?|Anthracite|Peat|Lignite|Bituminous coal
+G2:22|fuel|Which coal rank comes between peat and bituminous coal in the sequence given?|Lignite|Anthracite|Coke|Charcoal
+G2:23|fuel|What solid fuel is made by heating coal in a closed oven with little air?|Coke|Lignite|Peat|Crude oil
+G2:27|resource|Which fuel element is used as the example in the nuclear power notes?|Uranium|Copper|Iron|Sulphur
+G2:25|equipment|Which structure supports and raises the drilling equipment at a gas well?|Derrick|Turbine|Condenser|Penstock
+G2:28;G1:45|energy|What form of energy turns a turbine when water falls through a hydropower station?|Kinetic energy of flowing water|Heat from fission|Chemical energy of coal|Direct photovoltaic current
+G2:29|equipment|Which equipment converts sunlight directly into electrical power?|Photovoltaic cells|Steam condensers|Gas flares|Hydraulic gates
+G2:26|fuel|Which fuel residue from sugarcane processing can be burned to generate power?|Bagasse|Coke|Lignite|Bitumen
+X:4|institution|Which authority is identified with the development of dams and hydropower projects?|Water and Power Development Authority
+@G|Industry
+G2:35|city|Which Punjab city is a major textile centre among Faisalabad, Gwadar, Jiwani and Turbat?|Faisalabad|Gwadar|Jiwani|Turbat
+G2:41|city|Which Punjab city is especially associated with the manufacture of sports goods?|Sialkot
+G2:39|place|Where in Sindh was Pakistan Steel Mills established?|Bin Qasim|Sui|Khewra|Saindak
+G2:36|crop|Which harvested crop is crushed to extract juice in a sugar mill?|Sugarcane|Cotton|Wheat|Rice
+G2:38|resource|Which gaseous feedstock is central to nitrogen fertiliser manufacture in the notes?|Natural gas|Helium|Argon|Sulphur dioxide
+G2:32|sector|Which sector includes the processing of raw cotton into yarn?|Secondary|Primary|Tertiary|Extractive
+G2:32;G2:42|sector|Which sector includes hotel services for tourists?|Tertiary|Primary|Secondary|Extractive
+G2:33|term|What type of industry typically uses family labour and simple tools at home?|Cottage industry|Integrated steel production|Large-scale assembly|Capital-intensive refining
+G2:41|term|What is a designated area with infrastructure and incentives for several factories called?|Industrial estate|Drainage basin|Customs union|Wholesale market
+G2:37|resource|Which sulphate mineral is named alongside limestone in cement production?|Gypsum|Chromite|Rock salt|Magnetite
+@G|Trade
+X:5|institution|Which authority promotes Pakistani exports internationally?|Trade Development Authority of Pakistan
+X:5|institution|Which federal body collects customs duties in Pakistan?|Federal Board of Revenue
+G2:48|term|What term means a tax charged on imports?|Tariff|Quota|Embargo|Subsidy
+G2:48|term|Which measure sets a maximum quantity of a good that can be imported?|Quota|Tariff|Exchange rate|Export subsidy
+G2:48|term|What is a complete prohibition on specified trade called?|Embargo|Quota|Tariff|Trade surplus
+G2:46|term|When merchandise imports exceed merchandise exports in value, what is the result?|Trade deficit|Trade surplus|Balanced merchandise trade|A guaranteed financial-account deficit
+G2:45;G2:42|term|An overseas visitor pays a guide in Pakistan. Which export category applies?|Service export|Merchandise export|Raw-material export|Re-export of machinery
+X:5|country|Across the Torkham crossing, goods from Pakistan enter which country?|Afghanistan
+X:5|term|What does EPZ stand for in the trade examples?|Export Processing Zone|Energy Pricing Zone|External Payments Zone|Export Pipeline Zone
+G2:47|measure|Which measure counts final production within Pakistan’s borders regardless of the producer’s nationality?|Gross domestic product|Gross national product|Balance of trade|Foreign exchange reserves
+@G|Transport
+G2:55|facility|Which inland facility clears international freight through customs before it reaches the seaport?|Dry port|Fishing harbour|Passenger terminal|Irrigation headworks
+G2:55|city|Which of these inland cities is an example of a dry-port location in the notes?|Faisalabad|Gwadar|Pasni|Jiwani
+X:2|country|The Karakoram Highway provides an overland trade route from Pakistan to which country?|China
+X:5|place|Which Pakistani border crossing near Peshawar handles trade with Afghanistan?|Torkham|Wagah|Khunjerab|Taftan
+X:5|province|In which province is the Chaman crossing?|Balochistan
+M:3;X:5|province|In which province is Gwadar port?|Balochistan
+G2:24|mode|Which mode carries gas continuously through a fixed conduit?|Pipeline|Rail wagon|Road tanker|Container vessel
+G2:56|service|Which infrastructure transmits information rather than freight?|Telecommunications network|Rail marshalling yard|Inland container depot|Oil pipeline
+G2:53|city|In which city does the Orange Line metro mentioned in the rail notes operate?|Lahore
+G2:54|mode|Which mode is usually best for a small high-value medical shipment needed overseas within hours?|Air freight|Bulk sea freight|Inland barge|Freight rail alone
+@G|Population
+G2:59|measure|What measure expresses population per unit of land area?|Population density|Natural increase|Net migration|Dependency ratio
+G2:65|range|Which age range forms the conventional working-age denominator in the notes?|15–64|0–14|65 and over|0–64
+G2:65|range|Which group counts as young age dependants in the notes?|0–14|15–24|15–64|65 and over
+G2:61|term|Moving from Pakistan to settle abroad is what type of movement from Pakistan’s perspective?|Emigration|Immigration|Commuting|Natural decrease
+G2:61|term|What term describes money migrants send home to their families?|Remittances|Tariffs|Royalties on minerals|Export rebates
+G2:61|term|A herder regularly moves livestock between summer highland and winter lowland pastures. What is this called?|Transhumance|Permanent urban migration|Daily commuting|Industrial relocation
+G2:67|measure|Which two rates are subtracted to calculate natural increase?|Crude birth rate and crude death rate|Immigration rate and emigration rate|Birth rate and literacy rate|Death rate and dependency ratio
+G2:68|diagram|Which graph displays population by age bands and sex?|Population pyramid|Climate graph|Hydrograph|Scatterplot of income and education
+G2:63|term|A labourer can find farm work at harvest but none between crop cycles. Which category fits?|Seasonal unemployment|Frictional unemployment between permanent jobs|Full-time employment|Permanent retirement
+G2:62|flow|Which movement shifts population from villages towards cities within Pakistan?|Rural-to-urban migration|Urban-to-rural migration|International emigration|Natural increase
+@H|Company expansion
+H1:7|year|When did Aurangzeb begin his reign?|1658
+H1:7|tax|Which tax on non-Muslim subjects did Aurangzeb reimpose?|Jizya|Zakat|Salt duty|Import tariff
+H1:12|year|When did Clive capture Arcot?|1751
+H1:12|region|Clive’s victory at Arcot strengthened Company influence in which southern region?|Carnatic|Punjab|Bengal|Sindh
+H1:16|count|Under the Regulating Act, how many councillors were appointed to assist the governor-general of Bengal?|4
+H1:16|city|In which city did the 1774 Supreme Court sit?|Calcutta
+H1:11|person|Which governor-general is associated with the abolition of sati in 1829?|Lord William Bentinck
+H1:18|dynasty|Which ruling house governed Sindh before the Company annexed it?|Talpurs|Lodis|Tughluqs|Suris
+@H|Religious reform
+H1:29|person|Mir Nisar Ali is better known by which name?|Titu Mir
+H1:29|material|What material gave Titu Mir’s Bansher Kella its name?|Bamboo|Brick|Granite|Iron
+H1:27|institution|At which Delhi madrassa did Shah Waliullah receive his early education?|Madrassa Rahimiyah
+H1:27|place|Where was Syed Ahmad Barelvi born?|Rae Bareli
+H1:27|year|In which year was Syed Ahmad Barelvi born?|1786
+H1:28|year|In which year did Dudu Mian die?|1862
+H1:29|year|When did Titu Mir die defending his stronghold?|1831
+H1:28|meaning|What does faraiz refer to in the name of the Faraizi Movement?|Obligatory religious duties|Provincial governors|Land-revenue grants|Merchant associations
+@H|1857 uprising
+H1:51|city|To which city was Bahadur Shah Zafar exiled?|Rangoon
+H1:51|year|In which year did Bahadur Shah Zafar die in exile?|1862
+H1:51|place|At which cantonment was Mangal Pandey stationed?|Barrackpore
+H1:51|person|Who was the adopted son of Peshwa Baji Rao II associated with Kanpur?|Nana Sahib
+H1:51|month|In which month of 1857 was Mangal Pandey executed?|April
+H1:38|year|When did Macaulay produce his Minute on Indian Education?|1835
+H1:51|person|Which poet belonged to Zafar’s literary circle in Delhi?|Ghalib|Sheikh Ayaz|Gul Khan Naseer|Khushal Khan Khattak
+H1:43|place|In which city was the Mughal court to which rebels rallied?|Delhi
+@H|Aligarh
+H1:55|office|Which occupation did Sir Syed pursue in Company service?|Judicial officer|Army commander|Naval surgeon|Provincial governor
+S1:30|city|In which city did Sir Syed die in 1898?|Aligarh
+S1:34|country|Which country did Sir Syed visit to study universities in 1869?|United Kingdom
+H1:55|person|Who was Sir Syed Ahmad Khan’s father?|Mir Muttaqi
+S1:31|frequency|How frequently did the Muhammadan Educational Conference hold its main meetings?|Annually|Every five years|Twice a decade|Only once
+S1:30|institution|The Muhammadan Anglo-Oriental College later developed into which university?|Aligarh Muslim University
+S1:31|language|Which language was promoted as a replacement for Urdu in the controversy discussed in Sir Syed’s career?|Hindi
+H1:55;S1:31|count|How many calendar years separated the 1857 uprising from the founding of the Muhammadan Educational Conference in 1886?|29
+@H|Languages
+S1:37|periodical|Which Urdu monthly named in the notes was published from Lahore?|Mah-i-Nau|Sangat|Mahatak|Omaan
+S1:37|periodical|Which publication is associated with the Academy of Letters in Islamabad?|Adabiyat|Sangat|Awaam|Mahatak
+S1:37|frequency|How often was Adabiyat issued according to the notes?|Quarterly|Daily|Weekly|Fortnightly
+S1:38|person|Which poet belongs with Shah Abdul Latif Bhittai in the Sindhi Sufi tradition?|Sachal Sarmast|Waris Shah|Rahman Baba|Atta Shad
+S1:38|language|In which language is the literary work of Bulleh Shah chiefly discussed?|Punjabi
+S1:38|person|Which of these writers is discussed for her Urdu poetry?|Parveen Shakir|Waris Shah|Gul Khan Naseer|Rahman Baba
+S1:39|term|Which form of cultural transmission depends on elders recounting stories aloud?|Oral tradition|Lexicography|Typesetting|Transliteration
+S1:37|institution|Which association named in the notes specifically promoted Balochi literature?|Baloch Literary Association
+@H|Representation
+H2:9|person|Which Nawab of Dhaka was closely associated with the founding of the Muslim League?|Nawab Salimullah
+H2:18|person|Who was Secretary of State for India in the reform partnership with Lord Minto?|John Morley
+H2:21|count|How many houses did the central legislature have under the 1919 reforms?|2
+H2:21|count|According to the notes, how many years was the normal term of the 1919 reforms’ upper house?|5
+H2:21|count|According to the notes, how many years was the normal term of the 1919 reforms’ lower house?|3
+H2:8|year|In which year was the Rowlatt Act passed?|1919
+H2:8;H2:9|year|In which year was the All-India Muslim League founded?|1906
+H2:8|count|How many calendar years elapsed between Bengal’s 1905 partition and its 1911 reversal?|6
+@H|Khilafat
+S2:20|year|In which year did the Khilafat campaign begin in India?|1919
+S2:20|person|Which Congress leader supported Khilafat through the non-cooperation campaign?|Mahatma Gandhi
+S2:21|year|In which year did Germany sign the Treaty of Versailles?|1919
+S2:21|institution|Which international organisation was established under the postwar peace settlement after World War I?|League of Nations
+S2:21|year|When was the Treaty of Sèvres signed?|1920
+S2:23|region|Malabar, the setting of the Moplah uprising, lies in which present-day Indian state?|Kerala|Punjab|Rajasthan|Bihar
+H2:38|office|Which office conferred temporal sovereignty on the Ottoman ruler before its abolition in 1922?|Sultanate|Grand vizierate|Presidency|Speakership
+S2:20;S2:25|count|How many calendar years separate the campaign’s start in 1919 from abolition of the caliphate?|5
+@H|Constitutional proposals
+H2:47|year|In which year was the Nehru Report issued?|1928
+H2:46|year|When were the Delhi Proposals presented?|1927
+H2:50|party|Which major party did not attend the first Round Table Conference?|Indian National Congress|All-India Muslim League|Indian Liberal Party|None of these parties was absent
+H2:44|year|In which year did the first Round Table Conference open?|1930
+H2:53|year|When was the Gandhi–Irwin Pact signed?|1931
+H2:54|year|When did Parliament pass the Act associated with provincial autonomy before the 1937 elections?|1935
+H2:46|fraction|What minimum share of the central legislature did the Delhi Proposals seek for Muslims?|One third|One quarter|One half|Two thirds
+H2:48|resource|The tax challenged in Gandhi’s march to Dandi applied to what commodity?|Salt|Indigo|Opium|Cotton
+@H|Transfer of power
+S2:41|person|Which viceroy convened the 1945 Simla Conference?|Lord Wavell
+S2:41|count|How many British ministers comprised the Cabinet Mission of 1946?|3
+S2:41|month|In which month did the 1946 Cabinet Mission arrive in India?|March
+S2:41|month|In which month did Direct Action Day occur?|August
+H2:70|month|In which month of 1940 was the British offer to expand Indian participation announced?|August
+H2:65|year|In which year did Congress launch Quit India?|1942
+H2:69|month|In which month did the 1940 Lahore session of the Muslim League take place?|March
+S2:41|person|Which of these politicians served on the Cabinet Mission alongside Cripps and Alexander?|Lord Pethick-Lawrence|Lord Irwin|Lord Curzon|Lord Minto
+@H|Political ideas
+H2:87|year|When was Iqbal elected to the Punjab Legislative Council?|1926
+H2:87|month|In which month of 1930 did Iqbal deliver the Allahabad Address?|December
+H2:87|work|Which poem by Iqbal is identified in the notes as the anthem of the Muslim community?|Tarana-e-Milli|Heer|Shah Jo Risalo|Now or Never
+H2:87|city|In which city did Iqbal attend Government College?|Lahore
+H2:87|country|After study at Cambridge, in which continental European country did Iqbal pursue further study?|Germany
+H2:88|year|In which year was Chaudhry Rahmat Ali born?|1897
+H2:87;H2:88|count|How many calendar years separated the births of Iqbal and Rahmat Ali?|20
+H2:19;H2:69|count|How many calendar years separate Jinnah’s role at Lucknow in 1916 and the Lahore session in 1940?|24
+@H|Independence settlement
+H2:78|person|Which lawyer gave his name to the partition boundary award?|Sir Cyril Radcliffe
+H3:10|term|What is the term for a person forced across a border in search of safety?|Refugee|Commuter|Tourist|Seasonal farm worker
+H3:20|year|In which year did Jinnah die as governor-general?|1948
+H3:15|office|Which office did Jinnah hold at the head of the new state?|Governor-general|Prime minister|President|Chief justice
+G1:48|river|Which river belongs with Ravi and Sutlej in the eastern rivers group?|Beas
+G1:48|institution|Which institution brokered the Indus Waters Treaty?|World Bank|UNESCO|Commonwealth Secretariat|Asian Development Bank
+H3:10;H3:13|city|Which major eastern city served as provincial capital of East Bengal after partition?|Dhaka
+H3:14|institution|Which armed service was directly affected by the division of warships after partition?|Navy|Army|Air force|Police
+@H|Early ministries
+H3:26|month|In which month of 1956 did Pakistan’s first constitution come into effect?|March
+H3:26|office|Under the 1956 constitution, who was the head of government?|Prime minister|President|Chief justice|Speaker
+H3:29|count|How many tiers did the Basic Democracies structure have as set out in the notes?|4
+H3:29|number|How many Basic Democrats formed the original electoral college across both wings?|80,000|40,000|100,000|160,000
+H3:20|person|Who became Pakistan’s first president in 1956?|Iskander Mirza
+H3:24|person|Who was assassinated while serving as Pakistan’s first prime minister?|Liaquat Ali Khan
+H3:20|person|Which prime minister is identified by the name of the Bogra constitutional formula?|Mohammad Ali Bogra
+H3:25|resource|What resource was discovered at Sui in the early 1950s?|Natural gas|Copper|Rock salt|Gold
+@H|East Pakistan
+H3:39|place|Where in East Bengal was Sheikh Mujibur Rahman born?|Tungipara
+H3:39|year|In which year was Sheikh Mujibur Rahman born?|1920
+H3:42|sea|Over which body of water did the Bhola cyclone develop?|Bay of Bengal|Arabian Sea|Gulf of Oman|Mediterranean Sea
+H3:42|month|In which month of 1970 did the Bhola cyclone make landfall?|November
+H3:42|name|What was the name of the March 1971 military operation in East Pakistan?|Operation Searchlight|Operation Fair Play|Operation Gibraltar|Operation Grand Slam
+H3:42|month|In which month of 1971 did Operation Searchlight begin?|March
+H3:39|university|Which university did Sheikh Mujibur Rahman attend in the eastern wing?|University of Dhaka|University of Karachi|University of the Punjab|Aligarh Muslim University
+H3:42|country|Which neighbouring country intervened militarily in the eastern wing in December 1971?|India
+@H|Bhutto and Zia
+H3:45|person|Who was Zulfikar Ali Bhutto’s father?|Sir Shahnawaz Bhutto
+H3:45|year|When did Zulfikar Ali Bhutto found the Pakistan Peoples Party?|1967
+H3:45|year|In which year did Bhutto resign from Ayub Khan’s government?|1966
+H3:45|portfolio|Which portfolio did Bhutto take up in 1963 under Ayub Khan?|Foreign affairs|Commerce|Education|Railways
+H3:45|city|In which city was Zulfikar Ali Bhutto executed?|Rawalpindi
+H3:45|year|In which year was Zulfikar Ali Bhutto executed?|1979
+H3:51|person|Which prime minister appointed Zia-ul-Haq Chief of Army Staff?|Zulfikar Ali Bhutto
+H3:51|year|When did Zia become Chief of Army Staff?|1976
+@H|Governments 1988–99
+H3:62|year|In which year was Benazir Bhutto born?|1953
+H3:62|person|Which president dismissed Benazir Bhutto’s second government?|Farooq Leghari
+H3:62|year|In which year did Benazir Bhutto’s second government end?|1996
+H3:65|year|In which year did Nawaz Sharif first become prime minister?|1990
+H3:65|province|Which province did Nawaz Sharif govern as chief minister before his first premiership?|Punjab
+H3:74|person|Which chief justice clashed with Nawaz Sharif in 1997?|Sajjad Ali Shah
+H3:74|year|In which year did Ghulam Ishaq Khan resign the presidency?|1993
+H3:62|institution|Which American university did Benazir Bhutto attend?|Harvard University|University of Oxford|University of Cambridge|University of London
+@H|Foreign relations
+H3:77|year|In which year did Liaquat Ali Khan make his official visit to the United States?|1950
+H3:87|name|Which boundary line lay at the heart of a dispute between Pakistan and Afghanistan?|Durand Line|Radcliffe Line|Line of Control|McMahon Line
+H3:50|name|Which name replaced ceasefire line for the dividing line in Kashmir after the Simla Agreement?|Line of Control|Durand Line|Radcliffe Line|McMahon Line
+H3:57|sport|Which sport provided the setting for Zia’s informal diplomacy with Rajiv Gandhi?|Cricket|Hockey|Squash|Football
+S3:42|year|In which year did Pakistan publicly conduct nuclear tests at Chagai?|1998
+H3:56|institution|Which organisation held its second Islamic summit in Lahore?|Organisation of Islamic Conference
+H3:33|country|What country joined Pakistan and Turkey as the third founding member of RCD?|Iran
+H3:50|month|In which month of 1972 was the Simla Agreement signed?|July
+@G|Relief
+G1:13|place|On which plateau are the oilfields of Khaur and Dhulian?|Potwar Plateau|Balochistan Plateau|Deosai Plateau|Tibetan Plateau
+G1:13|city|Which pair of cities does the relief chapter use to illustrate the Balochistan Plateau?|Quetta and Kalat|Chakwal and Rawalpindi|Multan and Bahawalpur|Sukkur and Hyderabad
+G1:13|range|Which average height range do the notes give for the Potwar Plateau?|300–600 m|0–150 m|900–1,200 m|1,500–2,000 m
+@G|Climate
+G1:28|process|Moist air crosses a ridge. Which effect explains the drier conditions downstream of the crest?|Rain shadow|Sea breeze|Storm surge|Urban heat island
+G1:28|process|Which atmospheric condition can suppress convection even when the ground is hot?|Temperature inversion|Rapid cooling of air with height|Convergence of surface winds|Strong uplift over a ridge
+G1:28|region|Which pair of regions do the notes associate with pre-monsoon convectional rainfall?|Northern Sindh and southern Punjab|Makran and the Indus delta|Hunza and Baltistan|Western Chagai and coastal Gwadar
+@G|Water
+G1:40|method|Two bullocks haul a leather water bag from a well. Which irrigation method is being observed?|Charsa|Karez|Persian wheel|Tube well
+G1:40|feature|What supplies the lifting power in the traditional charsa described in the notes?|Draught animals|River current|Wind rotor|Diesel pump
+@G|Forests
+G1:56|tree|Which group consists entirely of conifers named in the notes?|Fir, deodar and chir|Kikar, karir and phulai|Peelu, kahu and birch|Neem, mango and teak
+G1:57|range|Which annual rainfall band is assigned to subtropical scrub in the forest comparison?|250–500 mm|Below 100 mm|750–1,000 mm|Above 1,500 mm
+G1:56|feature|What advantage do shallow roots give conifers when mountain snow begins to thaw?|They absorb meltwater near the surface|They tap deep saline aquifers|They anchor roots below permafrost|They extract moisture from clouds
+G1:57|feature|Which process do riverbank forests directly slow when roots bind the soil?|Bank erosion|Tidal inflow|Salt crystallisation|Glacial movement
+@G|Minerals
+G1:13|place|Which location in the Salt Range is associated with underground salt mining and tourism?|Khewra|Sui|Saindak|Dhulian
+G1:13|resource|Which pair consists of metallic resources listed for the Balochistan Plateau?|Copper and gold|Coal and chromite|Natural gas and oil|Limestone and gypsum
+@G|Fishing
+G1:73|gear|What powered device lets crews haul long fishing nets back on board?|Winch|Echo sounder|Chiller|Outboard propeller
+G1:73|feature|Which part of a mangrove offers juvenile fish physical shelter from larger predators?|Submerged roots|Upper canopy|Dry bark above the tide|Wind-blown pollen
+G1:73|process|Which measure preserves a catch on a long voyage before landing?|Onboard cold storage|Deepening the home harbour|Widening the net mesh|Installing a navigation beacon
+G1:73|season|Which seasonal wind system makes the Arabian Sea rough during the summer fishing slowdown?|South-west monsoon|North-east trade winds in winter|Western depressions|Local night-time land breeze
+@G|Agriculture
+G2:7|term|Which farm type produces mainly for household consumption?|Subsistence farm|Commercial estate|Export plantation|Contract seed farm
+G2:7|crop|Which pair of crop seasons can Punjab’s hot summers and cool winters support?|Kharif and rabi|Two rabi winters only|Two kharif summers only|Neither kharif nor rabi
+G2:7|landform|Which feature concentrates cultivation in parts of northern Balochistan despite surrounding rugged terrain?|Valleys with fertile soils|Tidal mudflats|Fixed sand dunes|Exposed summits
+@G|Power
+G2:29|equipment|Which device changes a household solar array’s direct current into alternating current?|Inverter|Transformer|Battery|Turbine
+G2:29|equipment|In a wind turbine, which component converts shaft rotation into electricity?|Generator|Gearbox|Rotor blade|Tower
+G2:29|process|Why is cooled water returned underground in the geothermal cycle shown in the notes?|To be reheated by hot rocks|To wash coal from seams|To cool solar cells|To fill an elevated hydro reservoir
+@G|Industry
+G2:36|resource|Which syrup-like by-product of sugar refining supplies chemical industries?|Molasses|Bagasse|Jaggery|Cane wax
+G2:36|place|Which Punjab district is associated with Ashraf Sugar Mills in the notes?|Bahawalpur|Gujrat|Sialkot|Attock
+G2:36|city|Which location is given for Mehran Sugar Mills?|Tando Adam area|Jhang area|Mardan area|Thatta city
+G2:36|equipment|Which machinery extracts juice by pressing sugarcane stalks?|Crushing rollers|Centrifugal dryers|Steam turbines|Rotary kilns
+@G|Trade
+G2:45|term|A Sialkot exporter sells surgical instruments overseas. Which category applies to this shipment?|Visible export|Invisible export|Invisible import|Internal trade
+G2:45|term|A Multan manufacturer sells cloth to a Quetta wholesaler. How is the sale classified geographically?|Internal trade|Entrepôt trade|Bilateral international trade|Re-export
+G2:45|term|A textile mill imports a loom for repeated use. Which import category fits the loom?|Capital good|Consumer good|Industrial raw material|Export service
+@G|Transport
+G2:51|measure|What distance between rails defines standard gauge in the transport notes?|1.435 m|1.000 m|1.676 m|0.762 m
+G2:51|feature|Which site characteristic makes a harbour naturally sheltered?|Headlands screening the anchorage from waves|A long straight exposed coastline|A steep road to the terminal|Flat land behind the docks
+@G|Population
+G2:63|term|A harvester replaces several manual cutting jobs. What directly explains the reduction in labour demand?|Mechanisation|Seasonal migration|Population ageing|Lower crop prices
+G2:63|term|A graduate cannot fill a machinist vacancy because the job needs different training. Which explanation fits?|Skills mismatch|Seasonal unemployment|An absence of job vacancies|Retirement from the labour force
+G2:63|term|Agricultural workers are hired at harvest and struggle to find work between harvests. Which pattern is this?|Seasonal unemployment|Permanent retirement|Full employment|Daily commuting

@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Both",
+    "turns": [
+      {
+        "stem": "Moist air crosses a ridge and descends toward station B. Which change best explains B’s rain shadow?",
+        "choices": [
+          "Warming during descent lowers relative humidity",
+          "Cooling during descent forces continuing condensation",
+          "Warming during ascent increases precipitation at B",
+          "Lower pressure on descent removes ground moisture"
+        ],
+        "repeat": false,
+        "response": "Warming during ascent increases precipitation at B"
+      },
+      {
+        "stem": "A fertiliser factory reports a production cut during gas shortages even with ample labour. Which input relationship explains this?",
+        "choices": [
+          "Gas replaces all the water used by crops",
+          "Gas is needed only for transporting finished bags",
+          "Natural gas is a feedstock for ammonia production",
+          "Natural gas supplies phosphate rock directly"
+        ],
+        "repeat": false,
+        "response": "Natural gas is a feedstock for ammonia production"
+      },
+      {
+        "stem": "A surveyor travels downstream from Guddu, stopping at the next labelled barrage before Kotri. Which pin records that stop?",
+        "choices": [
+          "D",
+          "E",
+          "F",
+          "C"
+        ],
+        "repeat": false,
+        "response": "E"
+      },
+      {
+        "stem": "Order these events from earliest to latest. X = Transfer to the Crown, Y = Battle of Buxar, Z = Regulating Act.",
+        "choices": [
+          "Y → X → Z",
+          "X → Y → Z",
+          "Y → Z → X",
+          "Z → Y → X"
+        ],
+        "repeat": false,
+        "response": "X → Y → Z"
+      },
+      {
+        "stem": "Why does winning more seats than any rival fail to establish that a party can govern alone?",
+        "choices": [
+          "The largest party is constitutionally barred from coalitions",
+          "A plurality may fall short of an absolute majority",
+          "Every seat is reserved for independents",
+          "The president must represent the smallest party"
+        ],
+        "repeat": false,
+        "response": "A plurality may fall short of an absolute majority"
+      },
+      {
+        "stem": "Which observation best supports the claim that a northern mountain route can facilitate international trade?",
+        "choices": [
+          "Commercial freight crosses the border via the Karakoram Highway",
+          "Visitor numbers rise in a domestic resort",
+          "A valley opens a new guesthouse",
+          "Snowmelt feeds a local irrigation channel"
+        ],
+        "repeat": false,
+        "response": "Commercial freight crosses the border via the Karakoram Highway"
+      },
+      {
+        "stem": "Which combination would let a historian distinguish authorship from later political influence?",
+        "choices": [
+          "Attribute every later League decision to the address’s author",
+          "Identify who delivered the Allahabad Address, then trace how later actors used its ideas",
+          "Treat a pamphlet title as proof of government policy",
+          "Count every later use of the name Pakistan as a vote in 1930"
+        ],
+        "repeat": false,
+        "response": "Attribute every later League decision to the address’s author"
+      },
+      {
+        "stem": "Which organisation linked Pakistan specifically with Iran and Turkey in economic cooperation during the 1960s?",
+        "choices": [
+          "South Asian Association for Regional Cooperation",
+          "Regional Cooperation for Development",
+          "United Nations Security Council",
+          "Commonwealth"
+        ],
+        "repeat": false,
+        "response": "United Nations Security Council"
+      },
+      {
+        "stem": "A country earns most export revenue from one textile market. Which strategy most directly reduces exposure to a downturn in that market?",
+        "choices": [
+          "Sell a wider range of goods to several destinations",
+          "Concentrate all orders in one overseas distributor",
+          "Ship the same goods to the same buyers in larger containers",
+          "Invoice the same buyer twice a month"
+        ],
+        "repeat": false,
+        "response": "Sell a wider range of goods to several destinations"
+      },
+      {
+        "stem": "Why could a natural disaster in the eastern wing turn into a constitutional grievance in 1970?",
+        "choices": [
+          "A cyclone automatically changed the seat allocation",
+          "The perceived inadequacy of federal relief deepened distrust of central rule",
+          "Relief policy gave the western wing a new coastline",
+          "The storm legally cancelled the Six Points"
+        ],
+        "repeat": false,
+        "response": "The perceived inadequacy of federal relief deepened distrust of central rule"
+      }
+    ]
+  }
+]
